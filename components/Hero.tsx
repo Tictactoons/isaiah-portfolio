@@ -26,9 +26,9 @@ export default function Hero() {
             while <br className="hidden sm:block" /> also working with GHL, CRM,
             and automation tools to help businesses grow.
           </p>
-          <div className="flex flex-col sm:flex-row justify-center items-center sm:items-stretch sm:space-x-4 space-y-3 sm:space-y-0 mb-4">
-            <Button variant="default" className="w-4/5 sm:w-40 pt-5 pb-5 font-inter">View Projects</Button>
-            <Button variant="default" className="w-4/5 sm:w-40 pt-5 pb-5 font-inter">Contact Me</Button>
+          <div className="flex flex-col sm:flex-row justify-center items-center sm:items-stretch sm:space-x-4 space-y-3 sm:space-y-0 mb-10">
+            <Button variant="default" className="w-4/5 sm:w-40 pt-6 pb-6 font-sans shadow-lg transform transition-transform duration-200 hover:scale-105 hover:text-base hover:shadow-xl">View Projects</Button>
+            <Button variant="default" className="w-4/5 sm:w-40 pt-6 pb-6 font-sans shadow-lg transform transition-transform duration-200 hover:scale-105 hover:text-base hover:shadow-xl">Contact Me</Button>
           </div>
         </div>
       </section>
